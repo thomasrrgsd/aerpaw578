@@ -1,0 +1,2 @@
+[2022-12-01 12:23:00.669641] [aerpawlib] Initialization tasks complete. Waiting for safety pilot to arm
+[2022-12-01 12:24:00.537049] Taking off to 50m

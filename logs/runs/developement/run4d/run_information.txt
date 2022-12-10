@@ -1,0 +1,1 @@
+This run was zigzag50m with waypoint 14,13,12,11 removed.
