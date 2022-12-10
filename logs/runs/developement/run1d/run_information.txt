@@ -1,0 +1,3 @@
+No important information. This run was the first full 50 meter flight plan pulled from the AERPAW user manual.
+
+Testing the MIMO configuration. All configurations are as Anil initially set them.
