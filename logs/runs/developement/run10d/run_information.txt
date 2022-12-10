@@ -1,0 +1,1 @@
+Run10d was conducted with PRB set back to 100. With Server to client communication (downlink) using IPERF TCP. Additionally, the UE tx gain is 70, and rx gain is 50. The ENB txt gain is 70 and the rx gain is 60.

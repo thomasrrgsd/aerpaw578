@@ -1,0 +1,1 @@
+Run 8d will be with iperf changed back to TCP, but still configured to have the server on the fixed node. PRB still set to 50. We want to see if the throughput will switch from UL to DL and how this will affect the throughput.
