@@ -1,0 +1,6 @@
+*Parameter file was not saved.
+
+Notes about testbed run:
+- There were a few issues that caused log generation that need to be ignored in the analysis.
+- The iperf client disconnected and would not reconnect and so Iperf could not be merged into the
+CSV due to not having timestamped data.
