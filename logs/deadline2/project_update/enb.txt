@@ -1,0 +1,683 @@
+[2022-11-07 23:47:54.356662] ---  Software Radio Systems LTE eNodeB  ---
+[2022-11-07 23:47:54.356741] 
+[2022-11-07 23:47:54.356754] Couldn't open , trying /root/.config/srsran/enb.conf
+[2022-11-07 23:47:54.356765] Reading configuration file /root/.config/srsran/enb.conf...
+[2022-11-07 23:47:54.356775] Couldn't open sib.conf, trying /root/.config/srsran/sib.conf
+[2022-11-07 23:47:54.356789] Couldn't open rr.conf, trying /root/.config/srsran/rr.conf
+[2022-11-07 23:47:54.356799] Couldn't open rb.conf, trying /root/.config/srsran/rb.conf
+[2022-11-07 23:47:54.356808] WARNING: Could not verify cpu0 scaling governor
+[2022-11-07 23:47:54.356818] WARNING: Could not verify cpu1 scaling governor
+[2022-11-07 23:47:54.356828] WARNING: Could not verify cpu2 scaling governor
+[2022-11-07 23:47:54.356838] WARNING: Could not verify cpu3 scaling governor
+[2022-11-07 23:47:54.356848] WARNING: Could not verify cpu4 scaling governor
+[2022-11-07 23:47:54.356859] WARNING: Could not verify cpu5 scaling governor
+[2022-11-07 23:47:54.356872] WARNING: Could not verify cpu6 scaling governor
+[2022-11-07 23:47:54.356883] WARNING: Could not verify cpu7 scaling governor
+[2022-11-07 23:47:54.356894] WARNING: Could not verify cpu8 scaling governor
+[2022-11-07 23:47:54.356905] WARNING: Could not verify cpu9 scaling governor
+[2022-11-07 23:47:54.356917] WARNING: Could not verify cpu10 scaling governor
+[2022-11-07 23:47:54.356928] WARNING: Could not verify cpu11 scaling governor
+[2022-11-07 23:47:54.356939] WARNING: Could not verify cpu12 scaling governor
+[2022-11-07 23:47:54.356950] WARNING: Could not verify cpu13 scaling governor
+[2022-11-07 23:47:54.356961] WARNING: Could not verify cpu14 scaling governor
+[2022-11-07 23:47:54.356972] WARNING: Could not verify cpu15 scaling governor
+[2022-11-07 23:47:54.356983] WARNING: Could not verify cpu16 scaling governor
+[2022-11-07 23:47:54.356996] WARNING: Could not verify cpu17 scaling governor
+[2022-11-07 23:47:54.357007] WARNING: Could not verify cpu18 scaling governor
+[2022-11-07 23:47:54.357018] WARNING: Could not verify cpu19 scaling governor
+[2022-11-07 23:47:54.357029] WARNING: Could not verify cpu20 scaling governor
+[2022-11-07 23:47:54.357040] WARNING: Could not verify cpu21 scaling governor
+[2022-11-07 23:47:54.357051] WARNING: Could not verify cpu22 scaling governor
+[2022-11-07 23:47:54.357062] WARNING: Could not verify cpu23 scaling governor
+[2022-11-07 23:47:54.357072] WARNING: Could not verify cpu24 scaling governor
+[2022-11-07 23:47:54.357083] WARNING: Could not verify cpu25 scaling governor
+[2022-11-07 23:47:54.357093] WARNING: Could not verify cpu26 scaling governor
+[2022-11-07 23:47:54.357104] WARNING: Could not verify cpu27 scaling governor
+[2022-11-07 23:47:54.357115] WARNING: Could not verify cpu28 scaling governor
+[2022-11-07 23:47:54.357126] WARNING: Could not verify cpu29 scaling governor
+[2022-11-07 23:47:54.357137] WARNING: Could not verify cpu30 scaling governor
+[2022-11-07 23:47:54.357148] WARNING: Could not verify cpu31 scaling governor
+[2022-11-07 23:47:54.357158] WARNING: Could not verify cpu32 scaling governor
+[2022-11-07 23:47:54.357169] WARNING: Could not verify cpu33 scaling governor
+[2022-11-07 23:47:54.357180] WARNING: Could not verify cpu34 scaling governor
+[2022-11-07 23:47:54.357191] WARNING: Could not verify cpu35 scaling governor
+[2022-11-07 23:47:54.357202] WARNING: Could not verify cpu36 scaling governor
+[2022-11-07 23:47:54.357212] WARNING: Could not verify cpu37 scaling governor
+[2022-11-07 23:47:54.357223] WARNING: Could not verify cpu38 scaling governor
+[2022-11-07 23:47:54.357234] WARNING: Could not verify cpu39 scaling governor
+[2022-11-07 23:47:54.357245] WARNING: Could not verify cpu40 scaling governor
+[2022-11-07 23:47:54.357256] WARNING: Could not verify cpu41 scaling governor
+[2022-11-07 23:47:54.357266] WARNING: Could not verify cpu42 scaling governor
+[2022-11-07 23:47:54.357277] WARNING: Could not verify cpu43 scaling governor
+[2022-11-07 23:47:54.357288] WARNING: Could not verify cpu44 scaling governor
+[2022-11-07 23:47:54.357299] WARNING: Could not verify cpu45 scaling governor
+[2022-11-07 23:47:54.357310] WARNING: Could not verify cpu46 scaling governor
+[2022-11-07 23:47:54.357320] WARNING: Could not verify cpu47 scaling governor
+[2022-11-07 23:47:54.357330] WARNING: Could not verify cpu48 scaling governor
+[2022-11-07 23:47:54.357341] WARNING: Could not verify cpu49 scaling governor
+[2022-11-07 23:47:54.357352] WARNING: Could not verify cpu50 scaling governor
+[2022-11-07 23:47:54.357363] WARNING: Could not verify cpu51 scaling governor
+[2022-11-07 23:47:54.357374] WARNING: Could not verify cpu52 scaling governor
+[2022-11-07 23:47:54.357384] WARNING: Could not verify cpu53 scaling governor
+[2022-11-07 23:47:54.357395] WARNING: Could not verify cpu54 scaling governor
+[2022-11-07 23:47:54.357406] WARNING: Could not verify cpu55 scaling governor
+[2022-11-07 23:47:54.357417] WARNING: Could not verify cpu56 scaling governor
+[2022-11-07 23:47:54.357428] WARNING: Could not verify cpu57 scaling governor
+[2022-11-07 23:47:54.357438] WARNING: Could not verify cpu58 scaling governor
+[2022-11-07 23:47:54.357449] WARNING: Could not verify cpu59 scaling governor
+[2022-11-07 23:47:54.357460] WARNING: Could not verify cpu60 scaling governor
+[2022-11-07 23:47:54.357471] WARNING: Could not verify cpu61 scaling governor
+[2022-11-07 23:47:54.357482] WARNING: Could not verify cpu62 scaling governor
+[2022-11-07 23:47:54.357493] WARNING: Could not verify cpu63 scaling governor
+[2022-11-07 23:47:54.357504] WARNING: Could not verify cpu64 scaling governor
+[2022-11-07 23:47:54.357514] WARNING: Could not verify cpu65 scaling governor
+[2022-11-07 23:47:54.357525] WARNING: Could not verify cpu66 scaling governor
+[2022-11-07 23:47:54.357536] WARNING: Could not verify cpu67 scaling governor
+[2022-11-07 23:47:54.357547] WARNING: Could not verify cpu68 scaling governor
+[2022-11-07 23:47:54.357558] WARNING: Could not verify cpu69 scaling governor
+[2022-11-07 23:47:54.357569] WARNING: Could not verify cpu70 scaling governor
+[2022-11-07 23:47:54.357580] WARNING: Could not verify cpu71 scaling governor
+[2022-11-07 23:47:54.357590] WARNING: Could not verify cpu72 scaling governor
+[2022-11-07 23:47:54.357601] WARNING: Could not verify cpu73 scaling governor
+[2022-11-07 23:47:54.357612] WARNING: Could not verify cpu74 scaling governor
+[2022-11-07 23:47:54.357623] WARNING: Could not verify cpu75 scaling governor
+[2022-11-07 23:47:54.357634] WARNING: Could not verify cpu76 scaling governor
+[2022-11-07 23:47:54.357645] WARNING: Could not verify cpu77 scaling governor
+[2022-11-07 23:47:54.357656] WARNING: Could not verify cpu78 scaling governor
+[2022-11-07 23:47:54.357666] WARNING: Could not verify cpu79 scaling governor
+[2022-11-07 23:47:54.357677] WARNING: Could not verify cpu80 scaling governor
+[2022-11-07 23:47:54.357688] WARNING: Could not verify cpu81 scaling governor
+[2022-11-07 23:47:54.357699] WARNING: Could not verify cpu82 scaling governor
+[2022-11-07 23:47:54.357718] WARNING: Could not verify cpu83 scaling governor
+[2022-11-07 23:47:54.357729] WARNING: Could not verify cpu84 scaling governor
+[2022-11-07 23:47:54.357740] WARNING: Could not verify cpu85 scaling governor
+[2022-11-07 23:47:54.357751] WARNING: Could not verify cpu86 scaling governor
+[2022-11-07 23:47:54.357762] WARNING: Could not verify cpu87 scaling governor
+[2022-11-07 23:47:54.357773] WARNING: Could not verify cpu88 scaling governor
+[2022-11-07 23:47:54.357784] WARNING: Could not verify cpu89 scaling governor
+[2022-11-07 23:47:54.357795] WARNING: Could not verify cpu90 scaling governor
+[2022-11-07 23:47:54.357805] WARNING: Could not verify cpu91 scaling governor
+[2022-11-07 23:47:54.357815] WARNING: Could not verify cpu92 scaling governor
+[2022-11-07 23:47:54.357825] WARNING: Could not verify cpu93 scaling governor
+[2022-11-07 23:47:54.357834] WARNING: Could not verify cpu94 scaling governor
+[2022-11-07 23:47:54.357844] WARNING: Could not verify cpu95 scaling governor
+[2022-11-07 23:47:54.357854] WARNING: Could not verify cpu96 scaling governor
+[2022-11-07 23:47:54.357864] WARNING: Could not verify cpu97 scaling governor
+[2022-11-07 23:47:54.357873] WARNING: Could not verify cpu98 scaling governor
+[2022-11-07 23:47:54.357883] WARNING: Could not verify cpu99 scaling governor
+[2022-11-07 23:47:54.357893] WARNING: Could not verify cpu100 scaling governor
+[2022-11-07 23:47:54.357902] WARNING: Could not verify cpu101 scaling governor
+[2022-11-07 23:47:54.357912] WARNING: Could not verify cpu102 scaling governor
+[2022-11-07 23:47:54.357924] WARNING: Could not verify cpu103 scaling governor
+[2022-11-07 23:47:54.357935] WARNING: Could not verify cpu104 scaling governor
+[2022-11-07 23:47:54.357946] WARNING: Could not verify cpu105 scaling governor
+[2022-11-07 23:47:54.357956] WARNING: Could not verify cpu106 scaling governor
+[2022-11-07 23:47:54.357967] WARNING: Could not verify cpu107 scaling governor
+[2022-11-07 23:47:54.357978] WARNING: Could not verify cpu108 scaling governor
+[2022-11-07 23:47:54.357989] WARNING: Could not verify cpu109 scaling governor
+[2022-11-07 23:47:54.358000] WARNING: Could not verify cpu110 scaling governor
+[2022-11-07 23:47:54.358011] WARNING: Could not verify cpu111 scaling governor
+[2022-11-07 23:47:54.358022] WARNING: Could not verify cpu112 scaling governor
+[2022-11-07 23:47:54.358032] WARNING: Could not verify cpu113 scaling governor
+[2022-11-07 23:47:54.358043] WARNING: Could not verify cpu114 scaling governor
+[2022-11-07 23:47:54.358054] WARNING: Could not verify cpu115 scaling governor
+[2022-11-07 23:47:54.358065] WARNING: Could not verify cpu116 scaling governor
+[2022-11-07 23:47:54.358077] WARNING: Could not verify cpu117 scaling governor
+[2022-11-07 23:47:54.358088] WARNING: Could not verify cpu118 scaling governor
+[2022-11-07 23:47:54.358099] WARNING: Could not verify cpu119 scaling governor
+[2022-11-07 23:47:54.358110] WARNING: Could not verify cpu120 scaling governor
+[2022-11-07 23:47:54.358120] WARNING: Could not verify cpu121 scaling governor
+[2022-11-07 23:47:54.358131] WARNING: Could not verify cpu122 scaling governor
+[2022-11-07 23:47:54.358142] WARNING: Could not verify cpu123 scaling governor
+[2022-11-07 23:47:54.358153] WARNING: Could not verify cpu124 scaling governor
+[2022-11-07 23:47:54.358164] WARNING: Could not verify cpu125 scaling governor
+[2022-11-07 23:47:54.358175] WARNING: Could not verify cpu126 scaling governor
+[2022-11-07 23:47:54.358186] WARNING: Could not verify cpu127 scaling governor
+[2022-11-07 23:47:54.358197] WARNING: Could not verify cpu128 scaling governor
+[2022-11-07 23:47:54.358208] WARNING: Could not verify cpu129 scaling governor
+[2022-11-07 23:47:54.358219] WARNING: Could not verify cpu130 scaling governor
+[2022-11-07 23:47:54.358230] WARNING: Could not verify cpu131 scaling governor
+[2022-11-07 23:47:54.358240] WARNING: Could not verify cpu132 scaling governor
+[2022-11-07 23:47:54.358251] WARNING: Could not verify cpu133 scaling governor
+[2022-11-07 23:47:54.358262] WARNING: Could not verify cpu134 scaling governor
+[2022-11-07 23:47:54.358273] WARNING: Could not verify cpu135 scaling governor
+[2022-11-07 23:47:54.358284] WARNING: Could not verify cpu136 scaling governor
+[2022-11-07 23:47:54.358295] WARNING: Could not verify cpu137 scaling governor
+[2022-11-07 23:47:54.358306] WARNING: Could not verify cpu138 scaling governor
+[2022-11-07 23:47:54.358317] WARNING: Could not verify cpu139 scaling governor
+[2022-11-07 23:47:54.358327] WARNING: Could not verify cpu140 scaling governor
+[2022-11-07 23:47:54.358338] WARNING: Could not verify cpu141 scaling governor
+[2022-11-07 23:47:54.358349] WARNING: Could not verify cpu142 scaling governor
+[2022-11-07 23:47:54.358360] WARNING: Could not verify cpu143 scaling governor
+[2022-11-07 23:47:54.358371] WARNING: Could not verify cpu144 scaling governor
+[2022-11-07 23:47:54.358382] WARNING: Could not verify cpu145 scaling governor
+[2022-11-07 23:47:54.358393] WARNING: Could not verify cpu146 scaling governor
+[2022-11-07 23:47:54.358404] WARNING: Could not verify cpu147 scaling governor
+[2022-11-07 23:47:54.358414] WARNING: Could not verify cpu148 scaling governor
+[2022-11-07 23:47:54.358425] WARNING: Could not verify cpu149 scaling governor
+[2022-11-07 23:47:54.358436] WARNING: Could not verify cpu150 scaling governor
+[2022-11-07 23:47:54.358447] WARNING: Could not verify cpu151 scaling governor
+[2022-11-07 23:47:54.358458] WARNING: Could not verify cpu152 scaling governor
+[2022-11-07 23:47:54.358469] WARNING: Could not verify cpu153 scaling governor
+[2022-11-07 23:47:54.358480] WARNING: Could not verify cpu154 scaling governor
+[2022-11-07 23:47:54.358490] WARNING: Could not verify cpu155 scaling governor
+[2022-11-07 23:47:54.358501] WARNING: Could not verify cpu156 scaling governor
+[2022-11-07 23:47:54.358512] WARNING: Could not verify cpu157 scaling governor
+[2022-11-07 23:47:54.358523] WARNING: Could not verify cpu158 scaling governor
+[2022-11-07 23:47:54.358538] WARNING: Could not verify cpu159 scaling governor
+[2022-11-07 23:47:54.358549] WARNING: Could not verify cpu160 scaling governor
+[2022-11-07 23:47:54.358560] WARNING: Could not verify cpu161 scaling governor
+[2022-11-07 23:47:54.358571] WARNING: Could not verify cpu162 scaling governor
+[2022-11-07 23:47:54.358582] WARNING: Could not verify cpu163 scaling governor
+[2022-11-07 23:47:54.358593] WARNING: Could not verify cpu164 scaling governor
+[2022-11-07 23:47:54.358604] WARNING: Could not verify cpu165 scaling governor
+[2022-11-07 23:47:54.358615] WARNING: Could not verify cpu166 scaling governor
+[2022-11-07 23:47:54.358626] WARNING: Could not verify cpu167 scaling governor
+[2022-11-07 23:47:54.358636] WARNING: Could not verify cpu168 scaling governor
+[2022-11-07 23:47:54.358648] WARNING: Could not verify cpu169 scaling governor
+[2022-11-07 23:47:54.358658] WARNING: Could not verify cpu170 scaling governor
+[2022-11-07 23:47:54.358669] WARNING: Could not verify cpu171 scaling governor
+[2022-11-07 23:47:54.358680] WARNING: Could not verify cpu172 scaling governor
+[2022-11-07 23:47:54.358691] WARNING: Could not verify cpu173 scaling governor
+[2022-11-07 23:47:54.358702] WARNING: Could not verify cpu174 scaling governor
+[2022-11-07 23:47:54.358725] WARNING: Could not verify cpu175 scaling governor
+[2022-11-07 23:47:54.358737] WARNING: Could not verify cpu176 scaling governor
+[2022-11-07 23:47:54.358749] WARNING: Could not verify cpu177 scaling governor
+[2022-11-07 23:47:54.358760] WARNING: Could not verify cpu178 scaling governor
+[2022-11-07 23:47:54.358772] WARNING: Could not verify cpu179 scaling governor
+[2022-11-07 23:47:54.358783] WARNING: Could not verify cpu180 scaling governor
+[2022-11-07 23:47:54.358794] WARNING: Could not verify cpu181 scaling governor
+[2022-11-07 23:47:54.358805] WARNING: Could not verify cpu182 scaling governor
+[2022-11-07 23:47:54.358818] WARNING: Could not verify cpu183 scaling governor
+[2022-11-07 23:47:54.358829] WARNING: Could not verify cpu184 scaling governor
+[2022-11-07 23:47:54.358840] WARNING: Could not verify cpu185 scaling governor
+[2022-11-07 23:47:54.358850] WARNING: Could not verify cpu186 scaling governor
+[2022-11-07 23:47:54.358861] WARNING: Could not verify cpu187 scaling governor
+[2022-11-07 23:47:54.358872] WARNING: Could not verify cpu188 scaling governor
+[2022-11-07 23:47:54.358883] WARNING: Could not verify cpu189 scaling governor
+[2022-11-07 23:47:54.358894] WARNING: Could not verify cpu190 scaling governor
+[2022-11-07 23:47:54.358905] WARNING: Could not verify cpu191 scaling governor
+[2022-11-07 23:47:54.358916] WARNING: Could not verify cpu192 scaling governor
+[2022-11-07 23:47:54.358926] WARNING: Could not verify cpu193 scaling governor
+[2022-11-07 23:47:54.358937] WARNING: Could not verify cpu194 scaling governor
+[2022-11-07 23:47:54.358948] WARNING: Could not verify cpu195 scaling governor
+[2022-11-07 23:47:54.358959] WARNING: Could not verify cpu196 scaling governor
+[2022-11-07 23:47:54.358970] WARNING: Could not verify cpu197 scaling governor
+[2022-11-07 23:47:54.358980] WARNING: Could not verify cpu198 scaling governor
+[2022-11-07 23:47:54.358991] WARNING: Could not verify cpu199 scaling governor
+[2022-11-07 23:47:54.359002] WARNING: Could not verify cpu200 scaling governor
+[2022-11-07 23:47:54.359013] WARNING: Could not verify cpu201 scaling governor
+[2022-11-07 23:47:54.359026] WARNING: Could not verify cpu202 scaling governor
+[2022-11-07 23:47:54.359037] WARNING: Could not verify cpu203 scaling governor
+[2022-11-07 23:47:54.359048] WARNING: Could not verify cpu204 scaling governor
+[2022-11-07 23:47:54.359059] WARNING: Could not verify cpu205 scaling governor
+[2022-11-07 23:47:54.359069] WARNING: Could not verify cpu206 scaling governor
+[2022-11-07 23:47:54.359080] WARNING: Could not verify cpu207 scaling governor
+[2022-11-07 23:47:54.359091] WARNING: Could not verify cpu208 scaling governor
+[2022-11-07 23:47:54.359102] WARNING: Could not verify cpu209 scaling governor
+[2022-11-07 23:47:54.359113] WARNING: Could not verify cpu210 scaling governor
+[2022-11-07 23:47:54.359124] WARNING: Could not verify cpu211 scaling governor
+[2022-11-07 23:47:54.359135] WARNING: Could not verify cpu212 scaling governor
+[2022-11-07 23:47:54.359146] WARNING: Could not verify cpu213 scaling governor
+[2022-11-07 23:47:54.359157] WARNING: Could not verify cpu214 scaling governor
+[2022-11-07 23:47:54.359168] WARNING: Could not verify cpu215 scaling governor
+[2022-11-07 23:47:54.359179] WARNING: Could not verify cpu216 scaling governor
+[2022-11-07 23:47:54.359189] WARNING: Could not verify cpu217 scaling governor
+[2022-11-07 23:47:54.359200] WARNING: Could not verify cpu218 scaling governor
+[2022-11-07 23:47:54.359211] WARNING: Could not verify cpu219 scaling governor
+[2022-11-07 23:47:54.359222] WARNING: Could not verify cpu220 scaling governor
+[2022-11-07 23:47:54.359233] WARNING: Could not verify cpu221 scaling governor
+[2022-11-07 23:47:54.359244] WARNING: Could not verify cpu222 scaling governor
+[2022-11-07 23:47:54.359255] WARNING: Could not verify cpu223 scaling governor
+[2022-11-07 23:47:54.359266] WARNING: Could not verify cpu224 scaling governor
+[2022-11-07 23:47:54.359276] WARNING: Could not verify cpu225 scaling governor
+[2022-11-07 23:47:54.359287] WARNING: Could not verify cpu226 scaling governor
+[2022-11-07 23:47:54.359298] WARNING: Could not verify cpu227 scaling governor
+[2022-11-07 23:47:54.359309] WARNING: Could not verify cpu228 scaling governor
+[2022-11-07 23:47:54.359320] WARNING: Could not verify cpu229 scaling governor
+[2022-11-07 23:47:54.359331] WARNING: Could not verify cpu230 scaling governor
+[2022-11-07 23:47:54.359342] WARNING: Could not verify cpu231 scaling governor
+[2022-11-07 23:47:54.359352] WARNING: Could not verify cpu232 scaling governor
+[2022-11-07 23:47:54.359363] WARNING: Could not verify cpu233 scaling governor
+[2022-11-07 23:47:54.359374] WARNING: Could not verify cpu234 scaling governor
+[2022-11-07 23:47:54.359385] WARNING: Could not verify cpu235 scaling governor
+[2022-11-07 23:47:54.359396] WARNING: Could not verify cpu236 scaling governor
+[2022-11-07 23:47:54.359407] WARNING: Could not verify cpu237 scaling governor
+[2022-11-07 23:47:54.359418] WARNING: Could not verify cpu238 scaling governor
+[2022-11-07 23:47:54.359429] WARNING: Could not verify cpu239 scaling governor
+[2022-11-07 23:47:54.359439] WARNING: Could not verify cpu240 scaling governor
+[2022-11-07 23:47:54.359450] WARNING: Could not verify cpu241 scaling governor
+[2022-11-07 23:47:54.359461] WARNING: Could not verify cpu242 scaling governor
+[2022-11-07 23:47:54.359472] WARNING: Could not verify cpu243 scaling governor
+[2022-11-07 23:47:54.359483] WARNING: Could not verify cpu244 scaling governor
+[2022-11-07 23:47:54.359494] WARNING: Could not verify cpu245 scaling governor
+[2022-11-07 23:47:54.359505] WARNING: Could not verify cpu246 scaling governor
+[2022-11-07 23:47:54.359515] WARNING: Could not verify cpu247 scaling governor
+[2022-11-07 23:47:54.359526] WARNING: Could not verify cpu248 scaling governor
+[2022-11-07 23:47:54.359537] WARNING: Could not verify cpu249 scaling governor
+[2022-11-07 23:47:54.359548] WARNING: Could not verify cpu250 scaling governor
+[2022-11-07 23:47:54.359559] WARNING: Could not verify cpu251 scaling governor
+[2022-11-07 23:47:54.359569] WARNING: Could not verify cpu252 scaling governor
+[2022-11-07 23:47:54.359580] WARNING: Could not verify cpu253 scaling governor
+[2022-11-07 23:47:54.359591] WARNING: Could not verify cpu254 scaling governor
+[2022-11-07 23:47:54.359602] WARNING: Could not verify cpu255 scaling governor
+[2022-11-07 23:47:54.359613] Failed to `mlockall`: {}
+[2022-11-07 23:47:54.359624] Built in Release mode using commit 17429def4 on branch master.
+[2022-11-07 23:47:54.359635] 
+[2022-11-07 23:47:54.399536] Opening 2 channels in RF device=default with args=type=zmq
+[2022-11-07 23:47:54.399618] Available RF device list: UHD  zmq 
+[2022-11-07 23:47:54.399631] Trying to open RF device 'UHD'
+[2022-11-07 23:47:54.400013] Opening USRP channels=2, args: type=zmq,master_clock_rate=23.04e6
+[2022-11-07 23:47:55.505324] RF device 'UHD' successfully opened
+[2022-11-07 23:47:56.210234] 
+[2022-11-07 23:47:56.210352] ==== eNodeB started ===
+[2022-11-07 23:47:56.210365] Type <t> to view trace
+[2022-11-07 23:47:56.210612] Enter t to stop trace.
+[2022-11-07 23:47:56.210702] Closing stdin thread.
+[2022-11-07 23:47:56.212202] Setting frequency: DL=3510.0 Mhz, UL=3410.0 MHz for cc_idx=0 nof_prb=50
+[2022-11-07 23:49:05.285285] RACH:  tti=341, cc=0, preamble=19, offset=5, temp_crnti=0x46
+[2022-11-07 23:49:05.544942] User 0x46 connected
+[2022-11-07 23:49:06.210616] 
+[2022-11-07 23:49:06.210651]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:49:06.210673] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:49:06.210688] lte   46   15   2    4   5.2k   15    0   0% |  51.2   19.3   40   16    52k   12    0   0%    0.0
+[2022-11-07 23:49:07.210594] lte   46   15   2    0      0    0    0   0% |   n/a    6.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:49:08.211014] lte   46   15   2   15    72k   46    0   0% |  40.7   18.4   40   21   2.1M   95    2   2%  35.8k
+[2022-11-07 23:49:09.210631] lte   46   15   2   11   491k  583    0   0% |  39.4    n/a   40   23    22M  690    5   0%   131k
+[2022-11-07 23:49:10.210634] lte   46   15   2   11   476k  619    0   0% |  39.8    n/a   40   23    23M  704    1   0%   128k
+[2022-11-07 23:49:11.210623] lte   46   15   2   12   507k  561    0   0% |  41.0    n/a   40   23    22M  695    8   1%   129k
+[2022-11-07 23:49:12.210631] lte   46   15   2   12   578k  618    0   0% |  40.1    n/a   40   23    22M  704    2   0%   130k
+[2022-11-07 23:49:13.210597] lte   46   15   2   14   696k  579    0   0% |  39.5    n/a   40   23    22M  696    8   1%   128k
+[2022-11-07 23:49:14.210633] lte   46   15   2   11   468k  588    0   0% |  40.0    n/a   40   23    22M  703    6   0%   129k
+[2022-11-07 23:49:15.210635] lte   46   15   2   11   461k  573    0   0% |  39.8    n/a   40   23    22M  700    8   1%   131k
+[2022-11-07 23:49:16.210642] lte   46   15   2   12   509k  568    0   0% |  39.5    n/a   40   23    22M  694    4   0%   131k
+[2022-11-07 23:49:17.210625] 
+[2022-11-07 23:49:17.210656]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:49:17.210668] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:49:17.210679] lte   46   15   2   11   444k  578    0   0% |  40.0    n/a   40   23    22M  697    4   0%   132k
+[2022-11-07 23:49:18.210996] lte   46   15   2   11   451k  571    0   0% |  39.9    n/a   40   23    22M  695    4   0%   132k
+[2022-11-07 23:49:19.210604] lte   46   15   2   11   438k  560    0   0% |  40.9    n/a   40   23    22M  695    5   0%   131k
+[2022-11-07 23:49:20.211002] lte   46   15   2   11   422k  541    0   0% |  40.0    n/a   40   23    22M  690    8   1%   131k
+[2022-11-07 23:49:21.210583] lte   46   15   2   11   432k  546    0   0% |  39.7    n/a   40   23    22M  699    5   0%   128k
+[2022-11-07 23:49:22.210592] lte   46   15   2   11   446k  582    0   0% |  40.8    n/a   40   23    22M  703    3   0%   129k
+[2022-11-07 23:49:23.211074] lte   46   15   2   11   434k  579    0   0% |  40.1    n/a   40   23    22M  706    2   0%   131k
+[2022-11-07 23:49:24.210651] lte   46   15   2   11   434k  567    0   0% |  40.0    n/a   40   23    22M  702    5   0%   132k
+[2022-11-07 23:49:25.210736] lte   46   15   2   11   445k  579    0   0% |  39.6    n/a   40   23    22M  696    3   0%   132k
+[2022-11-07 23:49:26.210646] lte   46   15   2   12   492k  543    0   0% |  40.0    n/a   40   23    22M  695    8   1%   128k
+[2022-11-07 23:49:27.210628] lte   46   15   2   11   439k  568    0   0% |  40.4    n/a   40   23    22M  700    4   0%   129k
+[2022-11-07 23:49:28.210546] 
+[2022-11-07 23:49:28.210577]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:49:28.210589] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:49:28.210600] lte   46   15   2   11   433k  563    0   0% |  39.6    n/a   40   23    22M  702    4   0%   131k
+[2022-11-07 23:49:29.210604] lte   46   15   2   11   434k  544    0   0% |  39.2    n/a   40   23    22M  696    8   1%   132k
+[2022-11-07 23:49:30.210561] lte   46   15   2   11   502k  583    0   0% |  40.4    n/a   40   23    22M  700    4   0%   128k
+[2022-11-07 23:49:31.210593] lte   46   15   2   11   452k  565    0   0% |  39.9    n/a   40   23    22M  696    7   0%   128k
+[2022-11-07 23:49:32.210608] lte   46   15   2   11   445k  580    0   0% |  40.6    n/a   40   23    22M  701    3   0%   130k
+[2022-11-07 23:49:33.210630] lte   46   15   2   11   451k  582    0   0% |  39.5    n/a   40   23    22M  698    3   0%   130k
+[2022-11-07 23:49:34.210566] lte   46   15   2   11   438k  557    0   0% |  39.5    n/a   40   23    22M  699    6   0%   131k
+[2022-11-07 23:49:35.210582] lte   46   15   2   11   433k  563    0   0% |  40.4    n/a   40   23    22M  700    4   0%   132k
+[2022-11-07 23:49:36.210778] lte   46   15   2   11   441k  565    0   0% |  39.7    n/a   40   23    22M  701    6   0%   129k
+[2022-11-07 23:49:37.210624] lte   46   15   2   11   444k  576    0   0% |  40.7    n/a   40   23    22M  701    3   0%   130k
+[2022-11-07 23:49:38.210880] lte   46   15   2   11   451k  610    0   0% |  39.2    n/a   40   23    23M  711    0   0%   128k
+[2022-11-07 23:49:39.210600] 
+[2022-11-07 23:49:39.210633]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:49:39.210645] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:49:39.210656] lte   46   15   2   11   440k  571    0   0% |  39.7    n/a   40   23    22M  703    4   0%   130k
+[2022-11-07 23:49:40.210655] lte   46   15   2   12   515k  582    0   0% |  40.2    n/a   40   23    22M  705    3   0%   132k
+[2022-11-07 23:49:41.210625] lte   46   15   2   11   436k  566    0   0% |  40.0    n/a   40   23    22M  703    4   0%   128k
+[2022-11-07 23:49:42.210581] lte   46   15   2   11   440k  557    0   0% |  39.2   33.4   40   23    22M  699    5   0%   130k
+[2022-11-07 23:49:43.210643] lte   46   15   2   11   430k  546    0   0% |  39.2    n/a   40   23    22M  696    6   0%   130k
+[2022-11-07 23:49:44.210645] lte   46   15   2   11   495k  584    0   0% |  40.1    n/a   40   23    22M  698    3   0%   131k
+[2022-11-07 23:49:45.210604] lte   46   15   2   11   434k  560    0   0% |  40.0    n/a   40   23    22M  694    4   0%   130k
+[2022-11-07 23:49:46.210576] lte   46   15   2   11   457k  599    0   0% |  39.9   36.9   40   23    22M  705    2   0%   132k
+[2022-11-07 23:49:47.210845] lte   46   15   2   11   436k  566    0   0% |  40.2    n/a   40   23    22M  703    4   0%   129k
+[2022-11-07 23:49:48.210627] lte   46   15   2   11   422k  515    0   0% |  38.8   33.4   40   23    22M  687   11   1%   128k
+[2022-11-07 23:49:49.210610] lte   46   15   2   11   443k  573    0   0% |  39.2    n/a   40   23    22M  699    3   0%   129k
+[2022-11-07 23:49:50.210553] 
+[2022-11-07 23:49:50.210587]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:49:50.210599] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:49:50.210610] lte   46   15   2   11   432k  553    0   0% |  39.9   36.9   40   23    22M  697    6   0%   130k
+[2022-11-07 23:49:51.210676] lte   46   15   2   11   439k  553    0   0% |  39.3    n/a   40   23    22M  695    5   0%   130k
+[2022-11-07 23:49:52.210598] lte   46   15   2   11   439k  519    0   0% |  39.1   36.9   40   23    22M  689    8   1%   130k
+[2022-11-07 23:49:53.210640] lte   46   15   2   11   444k  572    0   0% |  39.2   36.9   40   23    22M  700    4   0%   131k
+[2022-11-07 23:49:54.210679] lte   46   15   2   12   540k  587    0   0% |  39.6    n/a   40   23    22M  698    2   0%   131k
+[2022-11-07 23:49:55.210636] lte   46   15   2   11   433k  562    0   0% |  40.0    n/a   40   23    22M  700    4   0%   132k
+[2022-11-07 23:49:56.210578] lte   46   15   2   11   454k  582    0   0% |  39.8    n/a   40   23    22M  700    4   0%   128k
+[2022-11-07 23:49:57.210622] lte   46   15   2   11   445k  586    0   0% |  39.8    n/a   40   23    22M  699    2   0%   128k
+[2022-11-07 23:49:58.210662] lte   46   15   2   11   508k  583    0   0% |  39.9    n/a   40   23    22M  700    3   0%   129k
+[2022-11-07 23:49:59.210683] lte   46   15   2   11   440k  575    0   0% |  39.5    n/a   40   23    22M  703    4   0%   131k
+[2022-11-07 23:50:00.211115] lte   46   15   2   11   435k  542    0   0% |  39.4   34.5   40   23    22M  698    7   0%   127k
+[2022-11-07 23:50:01.210626] 
+[2022-11-07 23:50:01.210661]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:50:01.210673] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:50:01.210685] lte   46   15   2   11   443k  584    0   0% |  39.3    n/a   40   23    22M  704    3   0%   129k
+[2022-11-07 23:50:02.210583] lte   46   15   2   11   449k  557    0   0% |  38.5    n/a   40   23    22M  692    8   1%   129k
+[2022-11-07 23:50:03.210561] lte   46   15   2   11   448k  561    0   0% |  37.7    n/a   40   23    22M  697    9   1%   131k
+[2022-11-07 23:50:04.210630] lte   46   15   2   11   431k  492    0   0% |  36.6    n/a   40   23    22M  685   14   2%   130k
+[2022-11-07 23:50:05.210686] lte   46   15   2   11   418k  442    0   0% |  36.0   33.4   40   23    22M  675   25   3%   131k
+[2022-11-07 23:50:06.210613] lte   46   14   2   11   413k  429   31   6% |  35.8   36.9   40   23    22M  677   21   3%   131k
+[2022-11-07 23:50:07.210603] lte   46   15   2   11   424k  502    0   0% |  33.6   35.1   40   23    22M  689   15   2%   128k
+[2022-11-07 23:50:08.210625] lte   46   15   2   12   426k  393    0   0% |  32.6   36.0   40   23    21M  661   37   5%   128k
+[2022-11-07 23:50:09.210568] lte   46   15   2   11   380k  379    0   0% |  31.5   35.7   40   23    21M  655   45   6%   129k
+[2022-11-07 23:50:10.210611] lte   46   15   2   12   361k  311    0   0% |  30.8   34.2   40   23    20M  634   63   9%   128k
+[2022-11-07 23:50:11.210641] lte   46   15   2   12   374k  290    0   0% |  29.0   36.0   40   23    20M  623   71  10%   131k
+[2022-11-07 23:50:12.211106] 
+[2022-11-07 23:50:12.211144]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:50:12.211156] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:50:12.211167] lte   46   15   2   13   356k  245    0   0% |  28.7    n/a   40   23    20M  618   80  11%   131k
+[2022-11-07 23:50:13.210659] lte   46   14   2   13   348k  246    0   0% |  27.2   36.9   40   23    20M  617   77  11%   131k
+[2022-11-07 23:50:14.210687] lte   46   14   2   15   361k  195    0   0% |  26.6   35.9   40   23    19M  586  106  15%   131k
+[2022-11-07 23:50:15.210597] lte   46   15   2   15   320k  187    0   0% |  24.2   34.5   40   22    18M  581  114  16%   132k
+[2022-11-07 23:50:16.210600] lte   46   15   2   15   281k  178    0   0% |  22.8   35.1   40   20    16M  586  109  15%   134k
+[2022-11-07 23:50:17.210592] lte   46   15   2   14   259k  190    0   0% |  22.0   33.4   40   18    14M  601   97  13%   133k
+[2022-11-07 23:50:18.210635] lte   46   14   2   13   253k  199   16   7% |  22.1   33.4   40   17    13M  616   84  12%   139k
+[2022-11-07 23:50:19.210557] lte   46   14   2   13   242k  209    1   0% |  21.3   35.1   40   16    12M  631   61   8%   140k
+[2022-11-07 23:50:20.210719] lte   46   15   2   13   218k  207    1   0% |  20.1   33.4   40   14    11M  651   53   7%   142k
+[2022-11-07 23:50:21.210837] lte   46   14   2   14   203k  180   18   9% |  20.2   35.1   40   14    11M  636   68   9%   141k
+[2022-11-07 23:50:22.210598] lte   46   14   2   12   188k  182    1   0% |  18.8   35.5   40   13   9.4M  642   57   8%   143k
+[2022-11-07 23:50:23.210642] 
+[2022-11-07 23:50:23.210676]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:50:23.210688] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:50:23.210700] lte   46   15   2   13   327k  289    1   0% |  17.5   35.1   40   11   8.1M  665   48   6%   145k
+[2022-11-07 23:50:24.210553] lte   46   14   2   12   146k  159   44  21% |  16.8   33.4   40   10   7.6M  667   45   6%   147k
+[2022-11-07 23:50:25.210650] lte   46   15   2   12   189k  190   21   9% |  15.3   34.8   40    8   6.2M  668   43   6%   144k
+[2022-11-07 23:50:26.210897] lte   46   15   2   13   133k  126   13   9% |  16.0   35.1   40   10   6.8M  650   54   7%   147k
+[2022-11-07 23:50:27.210782] lte   46   15   2   13   115k  119   18  13% |  14.7   35.7   40    8   5.7M  659   48   6%   146k
+[2022-11-07 23:50:28.210640] lte   46   15   2   12    97k  108   14  11% |  13.7   34.9   40    7   5.0M  665   43   6%   148k
+[2022-11-07 23:50:29.210558] lte   46   15   2   11    92k  116   27  18% |  13.2   33.4   40    6   4.6M  675   39   5%   150k
+[2022-11-07 23:50:30.210633] lte   46   15   2   11    95k  116   18  13% |  13.3   34.5   40    6   4.8M  673   37   5%   147k
+[2022-11-07 23:50:31.210611] lte   46   15   2   11    80k  101   26  20% |  12.6   35.7   40    5   4.1M  679   37   5%   147k
+[2022-11-07 23:50:32.210625] lte   46   15   2   12    75k   84   19  18% |  11.9   33.4   40    5   3.8M  660   53   7%   149k
+[2022-11-07 23:50:33.210581] lte   46   15   2   11    65k   84   23  21% |  11.5   36.0   40    4   3.3M  670   46   6%   148k
+[2022-11-07 23:50:34.210636] 
+[2022-11-07 23:50:34.210673]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:50:34.210685] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:50:34.210699] lte   46   15   2   11    60k   76   22  22% |  11.2   35.1   40    4   3.0M  677   39   5%   150k
+[2022-11-07 23:50:35.210686] lte   46   14   2   11    56k   68   45  39% |  10.9   35.7   40    4   3.0M  644   65   9%   148k
+[2022-11-07 23:50:36.210653] lte   46   14   2   10    41k   56   32  36% |   9.5   36.9   40    2   2.0M  654   56   7%   150k
+[2022-11-07 23:50:37.210615] lte   46   15   2   11    45k   60   35  36% |   9.7   36.9   40    2   2.2M  658   57   7%   147k
+[2022-11-07 23:50:38.210632] lte   46   14   2    9    44k   61   39  39% |   9.7   33.4   40    2   2.2M  650   65   9%   147k
+[2022-11-07 23:50:39.210575] lte   46   15   2   13   101k   95   63  39% |   9.2   34.8   40    3   2.2M  639   72  10%   150k
+[2022-11-07 23:50:40.210632] lte   46   15   2   13    82k   76   40  34% |   9.3   33.4   40    3   2.2M  620   91  12%   152k
+[2022-11-07 23:50:41.210556] lte   46   14   2   12    83k   78   52  40% |   8.4   34.8   40    2   1.9M  615   92  13%   151k
+[2022-11-07 23:50:42.210551] lte   46   14   2   13    79k   73   51  41% |   8.0    n/a   40    1   1.6M  620   95  13%   152k
+[2022-11-07 23:50:43.210563] lte   46   14   2   12    77k   68   76  52% |   8.2   34.1   40    2   1.7M  602  108  15%   149k
+[2022-11-07 23:50:44.210721] lte   46   14   2   10    63k   64   78  54% |   7.6   33.9   40    2   1.6M  575  127  18%   153k
+[2022-11-07 23:50:45.210620] 
+[2022-11-07 23:50:45.210656]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:50:45.210669] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:50:45.210680] lte   46   13   2   10    39k   42   40  48% |   7.0   35.5   40    2   1.3M  563  135  19%   154k
+[2022-11-07 23:50:46.210639] lte   46   14   2   12    57k   55   70  56% |   6.4   35.3   40    1   1.3M  560  143  20%   151k
+[2022-11-07 23:50:47.210612] lte   46   14   2   11    38k   40   71  63% |   5.6   36.9   40    0   1.0M  564  144  20%   149k
+[2022-11-07 23:50:48.210574] lte   46   14   2   12    44k   46   51  52% |   5.9   34.7   40    1   1.1M  552  150  21%   151k
+[2022-11-07 23:50:49.210579] lte   46   15   2   12    40k   41   46  52% |   5.8   35.1   40    2   1.2M  497  202  28%   150k
+[2022-11-07 23:50:50.210610] lte   46   13   2   11    39k   37   65  63% |   5.5   35.7   40    1   941k  517  180  25%   152k
+[2022-11-07 23:50:51.210579] lte   46   14   2   12    35k   36   65  64% |   4.7   34.6   40    1   880k  497  204  29%   150k
+[2022-11-07 23:50:52.210641] lte   46   15   2   12    37k   36   65  64% |   5.5   35.4   40    1   1.0M  486  221  31%   149k
+[2022-11-07 23:50:53.210626] lte   46   13   2   12    37k   35   55  61% |   4.8   35.9   40    1   951k  521  190  26%   150k
+[2022-11-07 23:50:54.210599] lte   46   14   2   10    28k   28   57  67% |   5.5   32.7   40    2   1.0M  479  221  31%   150k
+[2022-11-07 23:50:55.210624] lte   46   13   2   11    40k   38   40  51% |   4.9   34.9   40    1   926k  500  210  29%   151k
+[2022-11-07 23:50:56.210622] 
+[2022-11-07 23:50:56.210657]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:50:56.210669] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:50:56.210680] lte   46   12   2    9    31k   29   63  68% |   5.5   34.7   40    1   1.0M  502  204  28%   149k
+[2022-11-07 23:50:57.210608] lte   46   14   2   12    29k   27   58  68% |   5.1   34.1   40    1   932k  509  203  28%   126k
+[2022-11-07 23:50:58.210552] lte   46   14   2   12    26k   27   59  68% |   4.6   34.9   40    1   885k  464  246  34%   110k
+[2022-11-07 23:50:59.210563] lte   46   13   2    8    33k   31   65  67% |   4.9   34.8   40    0   851k  480  226  32%   109k
+[2022-11-07 23:51:00.210552] lte   46   14   2    9    36k   41   92  69% |   5.0   31.5   40    1   946k  471  226  32%  92.5k
+[2022-11-07 23:51:01.210654] lte   46   13   2    8    26k   26   70  72% |   4.5   33.1   40    1   845k  442  258  36%  80.9k
+[2022-11-07 23:51:02.210605] lte   46   12   2    7    41k   34   78  69% |   4.9   34.9   40    2   1.0M  448  243  35%  79.4k
+[2022-11-07 23:51:03.210562] lte   46   15   2   10    22k   25   42  62% |   4.4   34.9   40    1   843k  438  266  37%  58.6k
+[2022-11-07 23:51:04.210671] lte   46   13   2   11    27k   20   55  73% |   4.7   35.9   40    1   912k  447  253  36%  24.2k
+[2022-11-07 23:51:05.210690] lte   46   14   2   10    31k   33   54  62% |   4.0   34.0   40    1   761k  439  267  37%  18.6k
+[2022-11-07 23:51:06.210574] lte   46   13   2   13    31k   21   35  62% |   4.4   34.1   40    1   871k  434  271  38%  15.8k
+[2022-11-07 23:51:07.210560] 
+[2022-11-07 23:51:07.210596]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:51:07.210608] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:51:07.210622] lte   46   14   2   12    20k   16   29  64% |   3.7   31.8   40    1   665k  376  278  42%    0.0
+[2022-11-07 23:51:08.210647] lte   46   13   2   11    14k   16   21  56% |   3.9   23.3   40    1   440k  244  166  40%    0.0
+[2022-11-07 23:51:09.210620] lte   46   15   2    0    920    1    1  50% |   3.3   14.8   40    1    86k   51   36  41%    0.0
+[2022-11-07 23:51:10.210640] lte   46   14   2    0    683    1    2  66% |   9.0   13.6   40    3    54k   27   26  49%    0.0
+[2022-11-07 23:51:11.210630] lte   46   15   2    0   1.4k    2    0   0% |  36.3   16.0   40   21    86k   12    8  40%    0.0
+[2022-11-07 23:51:12.210551] lte   46   15   2    0    682    1    0   0% |  35.4   14.9   40   20    43k    6    4  40%    0.0
+[2022-11-07 23:51:13.210558] lte   46   15   2    0    687    1    0   0% |  35.5   14.8   40   21    43k    6    4  40%    0.0
+[2022-11-07 23:51:14.210555] lte   46   15   2    0    681    1    0   0% |  36.5   14.6   40   20    43k    6    4  40%    0.0
+[2022-11-07 23:51:15.210614] lte   46   15   2    0   1.4k    2    2  50% |  11.9   16.7   40    7    72k   22   20  47%    0.0
+[2022-11-07 23:51:16.210584] lte   46   15   2    0      0    0    0   0% |   2.4   14.8   40    1    47k   28   36  56%    0.0
+[2022-11-07 23:51:17.210642] lte   46   15   2    0      0    0    0   0% |   6.5   14.2   40    1    26k   11    7  38%    0.0
+[2022-11-07 23:51:18.210600] 
+[2022-11-07 23:51:18.210634]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:51:18.210646] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:51:18.210658] lte   46   15   2   11   1.4k    2    2  50% |   3.5   14.7   40    1   108k   63   58  47%    0.0
+[2022-11-07 23:51:19.210572] lte   46   15   2    7   2.2k    5    3  37% |  15.9   17.6   40   16    74k   10   23  69%    0.0
+[2022-11-07 23:51:20.210618] lte   46   15   2    0      0    0    0   0% |   2.1   14.9   40    0    35k   21   23  52%    0.0
+[2022-11-07 23:51:21.210582] lte   46   15   2    0      0    0    0   0% |   3.2   15.4   40    0    26k   16   28  63%    0.0
+[2022-11-07 23:51:22.210548] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:23.210653] lte   46   15   2   12   2.5k    3    0   0% |  18.3   18.4   40   13   115k   28   23  45%    0.0
+[2022-11-07 23:51:24.210566] lte   46   15   2    0   2.9k    3    0   0% |  31.5   17.6   40   20   106k   16    4  20%    0.0
+[2022-11-07 23:51:25.210569] lte   46   15   2    0   2.5k    3    0   0% |  30.7   18.1   40   21   121k   19   11  36%    0.0
+[2022-11-07 23:51:26.210645] lte   46   15   2    0   2.1k    3    0   0% |  32.1   18.8   40   21   129k   18   12  40%    0.0
+[2022-11-07 23:51:27.210697] lte   46   15   2    0   2.0k    3    0   0% |  32.2   18.4   40   20   117k   17   10  37%    0.0
+[2022-11-07 23:51:28.210598] lte   46   15   2    0   1.4k    2    0   0% |  31.5   18.0   40   21    97k   14   10  41%    0.0
+[2022-11-07 23:51:29.210582] 
+[2022-11-07 23:51:29.210616]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:51:29.210628] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:51:29.210639] lte   46   15   2    0   2.1k    3    0   0% |  32.6   18.4   40   21   142k   19   12  38%    0.0
+[2022-11-07 23:51:30.210621] lte   46   15   2    0   2.7k    4    0   0% |  32.2   19.6   40   20   139k   20   12  37%    0.0
+[2022-11-07 23:51:31.210557] lte   46   14   2   15   2.0k    2    0   0% |   9.3   18.1   40    8   123k   31   52  62%    0.0
+[2022-11-07 23:51:32.210560] lte   46   15   2    0      0    0    0   0% |   1.7   14.9   40    1    19k   11   18  62%    0.0
+[2022-11-07 23:51:33.210631] lte   46   15   2    0      0    0    0   0% |   3.5   15.7   40    3    19k   11   18  62%    0.0
+[2022-11-07 23:51:34.210580] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:35.210583] lte   46   14   2    0      0    0    0   0% |   2.5   15.4   40    2    20k   12   23  65%    0.0
+[2022-11-07 23:51:36.210631] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:37.210551] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:38.210555] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:39.210567] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:40.210568] 
+[2022-11-07 23:51:40.210602]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:51:40.210614] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:51:40.210625] lte   46   14   2    0      0    0    0   0% |   1.9   14.4   40    6    12k    7   27  79%    0.0
+[2022-11-07 23:51:41.210582] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:42.210547] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:43.210611] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:44.210642] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:45.210593] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:46.210599] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:47.210626] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:48.210620] lte   46   15   2    0      0    0    0   0% |   1.3   14.9   40    1    13k    8   26  76%    0.0
+[2022-11-07 23:51:49.210625] lte   46   14   2    0      0    0    0   0% |   1.9   13.8    0    2   4.3k    3   12  80%    0.0
+[2022-11-07 23:51:50.210605] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:51.210562] 
+[2022-11-07 23:51:51.210595]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:51:51.210606] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:51:51.210618] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:52.210618] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:53.210587] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:54.210618] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:55.210555] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:56.210635] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:57.210570] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:58.210548] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:51:59.210554] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:00.210828] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:01.210541] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:02.210552] 
+[2022-11-07 23:52:02.210586]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:52:02.210598] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:52:02.210609] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:03.210544] lte   46   15   2    0      0    0    0   0% |   n/a   14.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:04.210630] lte   46   15   2    0      0    0    0   0% |   n/a   14.5    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:05.210557] lte   46   15   2    0      0    0    0   0% |   n/a   14.9    0    0      0    0    4 100%    0.0
+[2022-11-07 23:52:06.210635] lte   46   15   2    0      0    0    0   0% |   n/a   15.2    0    0      0    0    8 100%    0.0
+[2022-11-07 23:52:07.210593] lte   46   14   2    0    151    2    2  50% |   4.2   14.7   40    1   8.3k    7   34  82%    0.0
+[2022-11-07 23:52:08.210627] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:09.210645] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:10.210638] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:11.210600] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:12.210640] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:13.210625] 
+[2022-11-07 23:52:13.210659]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:52:13.210671] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:52:13.210682] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:14.210589] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:15.210588] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:16.210636] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:17.210576] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:18.210560] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:19.210638] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:20.210569] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:21.210587] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:22.210608] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:23.210637] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:24.210588] 
+[2022-11-07 23:52:24.210623]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:52:24.210635] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:52:24.210646] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:25.210742] lte   46   15   2    0      0    0    0   0% |   n/a   13.2    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:26.210623] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:27.210641] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:28.210580] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:29.210578] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:30.210655] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:31.210555] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:32.210567] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:33.210574] lte   46   15   2    0      0    0    0   0% |   n/a   13.2    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:34.210572] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:35.210600] 
+[2022-11-07 23:52:35.210634]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:52:35.210646] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:52:35.210657] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:36.210627] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:37.210624] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:38.210555] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:39.210630] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:40.210574] lte   46   15   2    0      0    0    0   0% |   2.3   14.7   40    1    13k    8   30  78%    0.0
+[2022-11-07 23:52:41.210604] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:42.210634] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:43.210549] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:44.210546] lte   46   15   2    0      0    0    0   0% |   n/a   12.7    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:45.210627] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:46.210623] 
+[2022-11-07 23:52:46.210654]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:52:46.210665] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:52:46.210677] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:47.210653] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:48.210547] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:49.210615] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:50.210630] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:51.210639] lte   46   15   2    0      0    0    0   0% |   n/a   12.7    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:52.210548] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:53.210589] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:54.210606] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:55.210587] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:56.210577] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:57.210613] 
+[2022-11-07 23:52:57.210643]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:52:57.210654] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:52:57.210665] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:58.210630] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:52:59.210633] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:00.210621] lte   46   15   2    0      0    0    0   0% |   n/a   12.7    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:01.210638] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:02.210632] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:03.210577] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:04.210630] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:05.210595] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:06.210562] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:07.210643] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:08.210578] 
+[2022-11-07 23:53:08.210614]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:53:08.210626] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:53:08.210638] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:09.210672] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:10.210643] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:11.210638] lte   46   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:12.210653] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:13.210568] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:14.210596] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:15.210637] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:16.210637] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:17.210725] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:18.210637] lte   46   15   2    0      0    0    0   0% |   n/a   13.2    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:19.210591] 
+[2022-11-07 23:53:19.210626]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:53:19.210639] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:53:19.210650] lte   46   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:20.210656] lte   46   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:53:20.348465] Disconnecting rnti=0x46.
+[2022-11-07 23:53:48.944289] RACH:  tti=2151, cc=0, preamble=27, offset=5, temp_crnti=0x47
+[2022-11-07 23:53:49.078112] User 0x47 connected
+[2022-11-07 23:53:49.210655] lte   47   15   2    3   8.5k    9    0   0% |  13.8   31.7   40    5   191k   10    0   0%    0.0
+[2022-11-07 23:53:50.210691] lte   47   15   2   12    28k   31    0   0% |  28.8   29.0   40   21   1.6M  106   35  24%    0.0
+[2022-11-07 23:53:51.210724] lte   47   15   2   13    47k   46    0   0% |  27.8   28.2   40   21   3.0M  171   63  26%    0.0
+[2022-11-07 23:53:52.210907] lte   47   15   2   12    68k   76    0   0% |  29.6   32.6   40   22   4.8M  233   55  19%    766
+[2022-11-07 23:53:53.210807] lte   47   15   2   14   124k   92    0   0% |  26.2   31.9   40   21   7.9M  350   80  18%    0.0
+[2022-11-07 23:53:54.210727] lte   47   15   2   13   186k  144    0   0% |  21.2   28.0   40   17  10.0M  500   79  13%  29.7k
+[2022-11-07 23:53:55.210751] lte   47   15   2   13   235k  219    0   0% |  21.6   35.1   40   16    13M  659   55   7%  10.8k
+[2022-11-07 23:53:56.210677] lte   47   15   2   13   247k  217    0   0% |  21.9   35.7   40   17    13M  649   56   7%  59.1k
+[2022-11-07 23:53:57.210693] lte   47   15   2   13   257k  204    0   0% |  22.9   35.0   40   17    14M  635   69   9%  63.7k
+[2022-11-07 23:53:58.210748] 
+[2022-11-07 23:53:58.210826]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:53:58.210839] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:53:58.210850] lte   47   15   2   13   270k  233    1   0% |  23.9    n/a   40   18    15M  641   62   8%  92.6k
+[2022-11-07 23:53:59.211215] lte   47   15   2   14   293k  195    0   0% |  25.4    n/a   40   20    16M  628   77  10%   133k
+[2022-11-07 23:54:00.210705] lte   47   15   2   13   315k  240    0   0% |  26.5    n/a   40   20    17M  641   67   9%   132k
+[2022-11-07 23:54:01.210938] lte   47   15   2   13   332k  262    0   0% |  27.7    n/a   40   22    19M  632   78  10%   129k
+[2022-11-07 23:54:02.210938] lte   47   15   2   14   404k  279    0   0% |  29.3    n/a   40   22    20M  644   57   8%   131k
+[2022-11-07 23:54:03.210754] lte   47   15   2   12   382k  331    0   0% |  30.5   36.9   40   23    21M  651   54   7%   132k
+[2022-11-07 23:54:04.210748] lte   47   15   2   13   384k  277    0   0% |  30.6   34.5   40   23    20M  643   58   8%   129k
+[2022-11-07 23:54:05.210631] lte   47   15   2   12   389k  362    0   0% |  32.4   35.1   40   23    21M  660   42   5%   130k
+[2022-11-07 23:54:06.210604] lte   47   15   2   12   387k  350    0   0% |  33.1   36.9   40   23    21M  662   39   5%   131k
+[2022-11-07 23:54:07.210645] lte   47   15   2   11   437k  490    0   0% |  34.3   33.4   40   23    22M  690   18   2%   128k
+[2022-11-07 23:54:08.210656] lte   47   15   2   11   437k  517    0   0% |  36.0   36.9   40   23    22M  695   13   1%   130k
+[2022-11-07 23:54:09.210870] 
+[2022-11-07 23:54:09.210928]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:54:09.210940] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:54:09.210953] lte   47   15   2   14   134k   82    0   0% |  35.8   18.1   40   22   3.8M  135    5   3%    0.0
+[2022-11-07 23:54:10.210594] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:11.210638] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:12.210706] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:13.210657] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:14.210624] lte   47   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:15.210584] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:16.210577] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:17.210602] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:18.210651] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:19.210651] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:20.210698] 
+[2022-11-07 23:54:20.210747]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:54:20.210759] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:54:20.210771] lte   47   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:21.210695] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:22.210566] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:23.210666] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:24.210654] lte   47   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:25.210634] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:26.210571] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:27.210581] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:28.210742] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:29.210663] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:30.210696] lte   47   15   2    0      0    0    0   0% |   n/a   12.9    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:31.210631] 
+[2022-11-07 23:54:31.210665]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:54:31.210677] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:54:31.210688] lte   47   15   2    0      0    0    0   0% |   n/a   13.4    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:32.210585] lte   47   15   2    0      0    0    0   0% |   n/a   13.0    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:33.210760] lte   47   15   0    0      0    0    0   0% |   n/a   14.3    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:34.210719] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:35.210589] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:36.210672] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:37.210679] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:38.210597] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:39.210680] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:40.210561] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:41.210603] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:42.210699] 
+[2022-11-07 23:54:42.210765]           -----------------DL----------------|-------------------------UL-------------------------
+[2022-11-07 23:54:42.210786] rat rnti  cqi  ri  mcs  brate   ok  nok  (%) | pusch  pucch  phr  mcs  brate   ok  nok  (%)    bsr
+[2022-11-07 23:54:42.210807] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:43.210660] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:44.210614] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:45.210572] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:46.210664] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0
+[2022-11-07 23:54:47.210641] lte   47  n/a   0    0      0    0    0   0% |   n/a    n/a    0    0      0    0    0   0%    0.0

@@ -1,0 +1,91 @@
+[2022-11-07 23:47:54.255058] 
+[2022-11-07 23:47:54.255122] Built in Release mode using commit 17429def4 on branch master.
+[2022-11-07 23:47:54.255135] 
+[2022-11-07 23:47:54.255145] 
+[2022-11-07 23:47:54.255155] ---  Software Radio Systems EPC  ---
+[2022-11-07 23:47:54.255165] 
+[2022-11-07 23:47:54.255175] Couldn't open , trying /root/.config/srsran/epc.conf
+[2022-11-07 23:47:54.255185] Reading configuration file /root/.config/srsran/epc.conf...
+[2022-11-07 23:47:54.255195] Couldn't open user_db.csv, trying /root/.config/srsran/user_db.csv
+[2022-11-07 23:47:54.255205] HSS Initialized.
+[2022-11-07 23:47:54.255215] MME S11 Initialized
+[2022-11-07 23:47:54.255224] MME GTP-C Initialized
+[2022-11-07 23:47:54.255234] MME Initialized. MCC: 0xf001, MNC: 0xff01
+[2022-11-07 23:47:54.255244] SPGW GTP-U Initialized.
+[2022-11-07 23:47:54.255260] SPGW S11 Initialized.
+[2022-11-07 23:47:54.255270] SP-GW Initialized.
+[2022-11-07 23:47:54.399497] Received S1 Setup Request.
+[2022-11-07 23:47:54.399619] S1 Setup Request - eNB Name: srsenb01, eNB id: 0x19b
+[2022-11-07 23:47:54.399632] S1 Setup Request - MCC:001, MNC:01
+[2022-11-07 23:47:54.399643] S1 Setup Request - TAC 7, B-PLMN 0xf110
+[2022-11-07 23:47:54.399652] S1 Setup Request - Paging DRX v128
+[2022-11-07 23:47:54.399662] Sending S1 Setup Response
+[2022-11-07 23:49:05.352658] Initial UE message: LIBLTE_MME_MSG_TYPE_ATTACH_REQUEST
+[2022-11-07 23:49:05.352724] Received Initial UE message -- Attach Request
+[2022-11-07 23:49:05.352736] Attach request -- M-TMSI: 0x21afbc2c
+[2022-11-07 23:49:05.352747] Attach request -- eNB-UE S1AP Id: 1
+[2022-11-07 23:49:05.352757] Attach request -- Attach type: 1
+[2022-11-07 23:49:05.352767] Attach Request -- UE Network Capabilities EEA: 11110000
+[2022-11-07 23:49:05.352777] Attach Request -- UE Network Capabilities EIA: 01110000
+[2022-11-07 23:49:05.352787] Attach Request -- MS Network Capabilities Present: false
+[2022-11-07 23:49:05.352797] PDN Connectivity Request -- EPS Bearer Identity requested: 0
+[2022-11-07 23:49:05.352807] PDN Connectivity Request -- Procedure Transaction Id: 1
+[2022-11-07 23:49:05.352817] PDN Connectivity Request -- ESM Information Transfer requested: false
+[2022-11-07 23:49:05.380427] UL NAS: Received Identity Response
+[2022-11-07 23:49:05.380444] ID Response -- IMSI: 001010123456789
+[2022-11-07 23:49:05.380472] Downlink NAS: Sent Authentication Request
+[2022-11-07 23:49:05.408692] UL NAS: Received Authentication Response
+[2022-11-07 23:49:05.408743] Authentication Response -- IMSI 001010123456789
+[2022-11-07 23:49:05.408764] UE Authentication Accepted.
+[2022-11-07 23:49:05.408775] Generating KeNB with UL NAS COUNT: 0
+[2022-11-07 23:49:05.408792] Downlink NAS: Sending NAS Security Mode Command.
+[2022-11-07 23:49:05.435728] UL NAS: Received Security Mode Complete
+[2022-11-07 23:49:05.435757] Security Mode Command Complete -- IMSI: 001010123456789
+[2022-11-07 23:49:05.436028] Getting subscription information -- QCI 7
+[2022-11-07 23:49:05.436039] Sending Create Session Request.
+[2022-11-07 23:49:05.436049] Creating Session Response -- IMSI: 1010123456789
+[2022-11-07 23:49:05.436059] Creating Session Response -- MME control TEID: 1
+[2022-11-07 23:49:05.436069] Received GTP-C PDU. Message type: GTPC_MSG_TYPE_CREATE_SESSION_REQUEST
+[2022-11-07 23:49:05.436079] SPGW: Allocated Ctrl TEID 1
+[2022-11-07 23:49:05.436089] SPGW: Allocated User TEID 1
+[2022-11-07 23:49:05.436099] SPGW: Allocate UE IP 172.16.0.2
+[2022-11-07 23:49:05.436109] Received Create Session Response
+[2022-11-07 23:49:05.436119] Create Session Response -- SPGW control TEID 1
+[2022-11-07 23:49:05.436134] Create Session Response -- SPGW S1-U Address: 127.0.1.100
+[2022-11-07 23:49:05.436146] SPGW Allocated IP 172.16.0.2 to IMSI 001010123456789
+[2022-11-07 23:49:05.436158] Adding attach accept to Initial Context Setup Request
+[2022-11-07 23:49:05.436169] Sent Initial Context Setup Request. E-RAB id 5 
+[2022-11-07 23:49:05.695779] Received Initial Context Setup Response
+[2022-11-07 23:49:05.695816] E-RAB Context Setup. E-RAB id 5
+[2022-11-07 23:49:05.695828] E-RAB Context -- eNB TEID 0x1; eNB GTP-U Address 127.0.1.1
+[2022-11-07 23:49:05.695864] UL NAS: Received Attach Complete
+[2022-11-07 23:49:05.695876] Unpacked Attached Complete Message. IMSI 1010123456789
+[2022-11-07 23:49:05.695887] Unpacked Activate Default EPS Bearer message. EPS Bearer id 5
+[2022-11-07 23:49:05.695899] Received GTP-C PDU. Message type: GTPC_MSG_TYPE_MODIFY_BEARER_REQUEST
+[2022-11-07 23:49:05.695982] Sending EMM Information
+[2022-11-07 23:53:20.279469] Received UE Context Release Request. MME-UE S1AP Id 1
+[2022-11-07 23:53:20.279522] There are active E-RABs, send release access bearers request
+[2022-11-07 23:53:20.279534] Received GTP-C PDU. Message type: GTPC_MSG_TYPE_RELEASE_ACCESS_BEARERS_REQUEST
+[2022-11-07 23:53:20.279668] Received UE Context Release Complete. MME-UE S1AP Id 1
+[2022-11-07 23:53:20.279688] UE Context Release Completed.
+[2022-11-07 23:53:48.996084] Initial UE message: NAS Message Type Unknown
+[2022-11-07 23:53:48.996139] Received Initial UE message -- Service Request
+[2022-11-07 23:53:48.996151] Service request -- S-TMSI 0x1da6302
+[2022-11-07 23:53:48.996161] Service request -- eNB UE S1AP Id 2
+[2022-11-07 23:53:48.996172] Service Request -- Short MAC valid
+[2022-11-07 23:53:48.996181] Service Request -- User is ECM DISCONNECTED
+[2022-11-07 23:53:48.996196] UE previously assigned IP: 172.16.0.2
+[2022-11-07 23:53:48.996211] Generating KeNB with UL NAS COUNT: 2
+[2022-11-07 23:53:48.996223] UE Ctr TEID 0
+[2022-11-07 23:53:48.996247] Sent Initial Context Setup Request. E-RAB id 5 
+[2022-11-07 23:53:49.172000] Found UE for Downlink Notification 
+[2022-11-07 23:53:49.172046] MME Ctr TEID 0x1, IMSI: 001010123456789
+[2022-11-07 23:53:49.172153] Received Initial Context Setup Response
+[2022-11-07 23:53:49.172167] E-RAB Context Setup. E-RAB id 5
+[2022-11-07 23:53:49.172180] E-RAB Context -- eNB TEID 0x2; eNB GTP-U Address 127.0.1.1
+[2022-11-07 23:53:49.172191] Initial Context Setup Response triggered from Service Request.
+[2022-11-07 23:53:49.172203] Sending Modify Bearer Request.
+[2022-11-07 23:53:49.172214] Received GTP-C PDU. Message type: GTPC_MSG_TYPE_MODIFY_BEARER_REQUEST
+[2022-11-07 23:53:49.172224] Modify Bearer Request received after Downling Data Notification was sent
+[2022-11-07 23:53:51.172113] T3413 expired -- Could not page the ue.
+[2022-11-07 23:53:51.172170] Received GTP-C PDU. Message type: GTPC_MSG_TYPE_DOWNLINK_DATA_NOTIFICATION_FAILURE_INDICATION
