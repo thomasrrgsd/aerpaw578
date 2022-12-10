@@ -1,0 +1,81 @@
+[2022-12-09 12:24:33.640746] Couldn't open , trying /root/.config/srsran/ue.conf
+[2022-12-09 12:24:33.640809] Reading configuration file /root/.config/srsran/ue.conf...
+[2022-12-09 12:24:33.640840] WARNING: cpu0 scaling governor is not set to performance mode. Realtime processing could be compromised. Consider setting it to performance mode before running the application.
+[2022-12-09 12:24:33.640862] 
+[2022-12-09 12:24:33.640888] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 12:24:33.640906] 
+[2022-12-09 12:24:33.692219] Opening 2 channels in RF device=default with args=type=zmq
+[2022-12-09 12:24:33.692310] Available RF device list: UHD  zmq 
+[2022-12-09 12:24:33.692333] Trying to open RF device 'UHD'
+[2022-12-09 12:24:33.692523] Opening USRP channels=2, args: type=zmq,master_clock_rate=23.04e6
+[2022-12-09 12:24:34.795939] RF device 'UHD' successfully opened
+[2022-12-09 12:24:35.349777] Waiting PHY to initialize ... done!
+[2022-12-09 12:24:35.349921] Attaching UE...
+[2022-12-09 12:24:35.349999] Enter t to stop trace.
+[2022-12-09 12:24:35.350033] Closing stdin thread.
+[2022-12-09 12:24:35.350190] --- disconnected ---
+[2022-12-09 12:24:36.350209] --- disconnected ---
+[2022-12-09 12:24:37.350151] --- disconnected ---
+[2022-12-09 12:24:38.350145] --- disconnected ---
+[2022-12-09 12:24:39.350084] --- disconnected ---
+[2022-12-09 12:24:40.350148] --- disconnected ---
+[2022-12-09 12:24:41.350153] --- disconnected ---
+[2022-12-09 12:24:42.350160] --- disconnected ---
+[2022-12-09 12:24:43.350332] --- disconnected ---
+[2022-12-09 12:24:44.350104] --- disconnected ---
+[2022-12-09 12:24:45.350080] --- disconnected ---
+[2022-12-09 12:24:46.350285] --- disconnected ---
+[2022-12-09 12:24:47.350304] --- disconnected ---
+[2022-12-09 12:24:48.350176] --- disconnected ---
+[2022-12-09 12:24:49.350260] --- disconnected ---
+[2022-12-09 12:24:50.350271] --- disconnected ---
+[2022-12-09 12:24:51.350394] --- disconnected ---
+[2022-12-09 12:24:52.350250] --- disconnected ---
+[2022-12-09 12:24:53.350185] --- disconnected ---
+[2022-12-09 12:24:54.350212] --- disconnected ---
+[2022-12-09 12:24:55.350752] --- disconnected ---
+[2022-12-09 12:24:56.350260] --- disconnected ---
+[2022-12-09 12:24:57.350281] --- disconnected ---
+[2022-12-09 12:24:58.350238] --- disconnected ---
+[2022-12-09 12:24:59.350341] --- disconnected ---
+[2022-12-09 12:25:00.350377] --- disconnected ---
+[2022-12-09 12:25:01.350442] --- disconnected ---
+[2022-12-09 12:25:02.350321] --- disconnected ---
+[2022-12-09 12:25:03.350527] --- disconnected ---
+[2022-12-09 12:25:04.350272] --- disconnected ---
+[2022-12-09 12:25:05.350273] --- disconnected ---
+[2022-12-09 12:25:06.350264] --- disconnected ---
+[2022-12-09 12:25:07.350217] --- disconnected ---
+[2022-12-09 12:25:08.350302] --- disconnected ---
+[2022-12-09 12:25:09.350301] --- disconnected ---
+[2022-12-09 12:25:10.350201] --- disconnected ---
+[2022-12-09 12:25:11.350303] --- disconnected ---
+[2022-12-09 12:25:12.350436] --- disconnected ---
+[2022-12-09 12:25:13.350339] --- disconnected ---
+[2022-12-09 12:25:14.350225] --- disconnected ---
+[2022-12-09 12:25:15.350225] --- disconnected ---
+[2022-12-09 12:25:16.350508] --- disconnected ---
+[2022-12-09 12:25:17.350252] --- disconnected ---
+[2022-12-09 12:25:18.350212] --- disconnected ---
+[2022-12-09 12:25:19.350229] --- disconnected ---
+[2022-12-09 12:25:20.350296] --- disconnected ---
+[2022-12-09 12:25:21.350211] --- disconnected ---
+[2022-12-09 12:25:22.350293] --- disconnected ---
+[2022-12-09 12:25:23.350230] --- disconnected ---
+[2022-12-09 12:25:24.350242] --- disconnected ---
+[2022-12-09 12:25:25.350229] --- disconnected ---
+[2022-12-09 12:25:26.350250] --- disconnected ---
+[2022-12-09 12:25:27.350430] --- disconnected ---
+[2022-12-09 12:25:28.350331] --- disconnected ---
+[2022-12-09 12:25:29.350279] --- disconnected ---
+[2022-12-09 12:25:30.350114] --- disconnected ---
+[2022-12-09 12:25:31.350295] --- disconnected ---
+[2022-12-09 12:25:32.350108] --- disconnected ---
+[2022-12-09 12:25:33.350083] --- disconnected ---
+[2022-12-09 12:25:34.350078] --- disconnected ---
+[2022-12-09 12:25:35.350190] --- disconnected ---
+[2022-12-09 12:25:36.350123] --- disconnected ---
+[2022-12-09 12:25:37.350114] --- disconnected ---
+[2022-12-09 12:25:38.350153] --- disconnected ---
+[2022-12-09 12:25:39.350319] --- disconnected ---
+[2022-12-09 12:25:40.350182] --- disconnected ---

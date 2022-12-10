@@ -1,0 +1,16 @@
+[2022-12-09 12:28:27.916193] 
+[2022-12-09 12:28:27.916281] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 12:28:27.916311] 
+[2022-12-09 12:28:27.916338] 
+[2022-12-09 12:28:27.916364] ---  Software Radio Systems EPC  ---
+[2022-12-09 12:28:27.916389] 
+[2022-12-09 12:28:27.916415] Couldn't open , trying /root/.config/srsran/epc.conf
+[2022-12-09 12:28:27.916441] Reading configuration file /root/.config/srsran/epc.conf...
+[2022-12-09 12:28:27.916467] Couldn't open user_db.csv, trying /root/.config/srsran/user_db.csv
+[2022-12-09 12:28:27.917301] HSS Initialized.
+[2022-12-09 12:28:27.917382] MME S11 Initialized
+[2022-12-09 12:28:27.917414] MME GTP-C Initialized
+[2022-12-09 12:28:27.917441] MME Initialized. MCC: 0xf001, MNC: 0xff01
+[2022-12-09 12:28:27.917474] SPGW GTP-U Initialized.
+[2022-12-09 12:28:27.917615] SPGW S11 Initialized.
+[2022-12-09 12:28:27.917650] SP-GW Initialized.

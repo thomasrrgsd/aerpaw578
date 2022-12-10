@@ -1,0 +1,1 @@
+[2022-12-09 11:33:58.701917] iperf3: parameter error - some option you are trying to set is client only

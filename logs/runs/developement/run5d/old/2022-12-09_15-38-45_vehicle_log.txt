@@ -1,0 +1,1 @@
+[2022-12-09 15:39:02.880163] [aerpawlib] Initialization tasks complete. Waiting for safety pilot to arm

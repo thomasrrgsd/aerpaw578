@@ -1,0 +1,11 @@
+[2022-12-09 15:32:36.348439] 
+[2022-12-09 15:32:36.348685] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 15:32:36.348724] 
+[2022-12-09 15:32:36.348907] 
+[2022-12-09 15:32:36.348941] ---  Software Radio Systems EPC  ---
+[2022-12-09 15:32:36.349109] 
+[2022-12-09 15:32:36.349210] Couldn't open , trying /root/.config/srsran/epc.conf
+[2022-12-09 15:32:36.349246] Reading configuration file /root/.config/srsran/epc.conf...
+[2022-12-09 15:32:36.349548] Couldn't open user_db.csv, trying /root/.config/srsran/user_db.csv
+[2022-12-09 15:32:36.349658] HSS Initialized.
+[2022-12-09 15:32:36.349867] Error binding SCTP socket

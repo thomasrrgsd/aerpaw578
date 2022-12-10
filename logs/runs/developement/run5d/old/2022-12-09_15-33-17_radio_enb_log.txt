@@ -1,0 +1,22 @@
+[2022-12-09 15:33:18.531533] ---  Software Radio Systems LTE eNodeB  ---
+[2022-12-09 15:33:18.531657] 
+[2022-12-09 15:33:18.532655] Couldn't open , trying /root/.config/srsran/enb.conf
+[2022-12-09 15:33:18.533187] Reading configuration file /root/.config/srsran/enb.conf...
+[2022-12-09 15:33:18.533222] Couldn't open sib.conf, trying /root/.config/srsran/sib.conf
+[2022-12-09 15:33:18.534413] Couldn't open rr.conf, trying /root/.config/srsran/rr.conf
+[2022-12-09 15:33:18.536371] Couldn't open rb.conf, trying /root/.config/srsran/rb.conf
+[2022-12-09 15:33:18.539496] WARNING: cpu0 scaling governor is not set to performance mode. Realtime processing could be compromised. Consider setting it to performance mode before running the application.
+[2022-12-09 15:33:18.539610] Failed to `mlockall`: {}
+[2022-12-09 15:33:18.540347] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 15:33:18.540969] 
+[2022-12-09 15:33:18.699036] Opening 2 channels in RF device=default with args=type=zmq
+[2022-12-09 15:33:18.699610] Available RF device list: UHD  zmq 
+[2022-12-09 15:33:18.699664] Trying to open RF device 'UHD'
+[2022-12-09 15:33:18.699743] Opening USRP channels=2, args: type=zmq,master_clock_rate=23.04e6
+[2022-12-09 15:33:19.962157] RF device 'UHD' successfully opened
+[2022-12-09 15:33:21.329336] 
+[2022-12-09 15:33:21.329424] ==== eNodeB started ===
+[2022-12-09 15:33:21.332523] Setting frequency: DL=2680.0 Mhz, UL=2560.0 MHz for cc_idx=0 nof_prb=100
+[2022-12-09 15:33:21.333340] Type <t> to view trace
+[2022-12-09 15:33:21.334163] Enter t to stop trace.
+[2022-12-09 15:33:21.334749] Closing stdin thread.

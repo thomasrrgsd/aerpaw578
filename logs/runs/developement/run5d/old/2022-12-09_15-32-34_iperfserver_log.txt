@@ -1,0 +1,2 @@
+[2022-12-09 15:32:37.189510] iperf3: error - unable to start listener for connections: Address already in use
+[2022-12-09 15:32:37.189593] iperf3: exiting

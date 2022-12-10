@@ -1,0 +1,8 @@
+[2022-12-09 11:32:58.838602] 
+[2022-12-09 11:32:58.838719] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 11:32:58.838753] 
+[2022-12-09 11:32:58.838784] 
+[2022-12-09 11:32:58.838812] ---  Software Radio Systems EPC  ---
+[2022-12-09 11:32:58.838838] 
+[2022-12-09 11:32:58.906365] srsRAN crashed... backtrace saved in './srsRAN.backtrace.crash'...
+[2022-12-09 11:32:58.906423] ---  exiting  ---

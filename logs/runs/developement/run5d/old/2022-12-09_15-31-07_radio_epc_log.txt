@@ -1,0 +1,26 @@
+[2022-12-09 15:31:08.622065] 
+[2022-12-09 15:31:08.622210] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 15:31:08.622263] 
+[2022-12-09 15:31:08.622285] 
+[2022-12-09 15:31:08.622304] ---  Software Radio Systems EPC  ---
+[2022-12-09 15:31:08.622322] 
+[2022-12-09 15:31:08.623322] Couldn't open , trying /root/.config/srsran/epc.conf
+[2022-12-09 15:31:08.623357] Reading configuration file /root/.config/srsran/epc.conf...
+[2022-12-09 15:31:08.623809] Couldn't open user_db.csv, trying /root/.config/srsran/user_db.csv
+[2022-12-09 15:31:08.641464] HSS Initialized.
+[2022-12-09 15:31:08.641545] MME S11 Initialized
+[2022-12-09 15:31:08.641575] MME GTP-C Initialized
+[2022-12-09 15:31:08.641600] MME Initialized. MCC: 0xf001, MNC: 0xff01
+[2022-12-09 15:31:08.643215] SPGW GTP-U Initialized.
+[2022-12-09 15:31:08.643406] SPGW S11 Initialized.
+[2022-12-09 15:31:08.643445] SP-GW Initialized.
+[2022-12-09 15:33:18.699097] Received S1 Setup Request.
+[2022-12-09 15:33:18.699273] S1 Setup Request - eNB Name: srsenb01, eNB id: 0x19b
+[2022-12-09 15:33:18.699325] S1 Setup Request - MCC:001, MNC:01
+[2022-12-09 15:33:18.699354] S1 Setup Request - TAC 7, B-PLMN 0xf110
+[2022-12-09 15:33:18.699387] S1 Setup Request - Paging DRX v128
+[2022-12-09 15:33:18.699420] Sending S1 Setup Response
+[2022-12-09 15:33:32.605119] SCTP Association Shutdown. Association: 1001
+[2022-12-09 15:33:32.605267] Deleting eNB context. eNB Id: 0x19b
+[2022-12-09 15:33:32.605314] Releasing UEs context
+[2022-12-09 15:33:32.605360] No UEs to be released

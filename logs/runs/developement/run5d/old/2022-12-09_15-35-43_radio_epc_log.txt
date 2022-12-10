@@ -1,0 +1,22 @@
+[2022-12-09 15:35:44.823415] 
+[2022-12-09 15:35:44.823739] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 15:35:44.823800] 
+[2022-12-09 15:35:44.823838] 
+[2022-12-09 15:35:44.823882] ---  Software Radio Systems EPC  ---
+[2022-12-09 15:35:44.823920] 
+[2022-12-09 15:35:44.823967] Couldn't open , trying /root/.config/srsran/epc.conf
+[2022-12-09 15:35:44.824011] Reading configuration file /root/.config/srsran/epc.conf...
+[2022-12-09 15:35:44.824607] Couldn't open user_db.csv, trying /root/.config/srsran/user_db.csv
+[2022-12-09 15:35:44.847527] HSS Initialized.
+[2022-12-09 15:35:44.847877] MME S11 Initialized
+[2022-12-09 15:35:44.848009] MME GTP-C Initialized
+[2022-12-09 15:35:44.848219] MME Initialized. MCC: 0xf001, MNC: 0xff01
+[2022-12-09 15:35:44.849330] SPGW GTP-U Initialized.
+[2022-12-09 15:35:44.850410] SPGW S11 Initialized.
+[2022-12-09 15:35:44.850637] SP-GW Initialized.
+[2022-12-09 15:35:45.857896] Received S1 Setup Request.
+[2022-12-09 15:35:45.858012] S1 Setup Request - eNB Name: srsenb01, eNB id: 0x19b
+[2022-12-09 15:35:45.858051] S1 Setup Request - MCC:001, MNC:01
+[2022-12-09 15:35:45.858086] S1 Setup Request - TAC 7, B-PLMN 0xf110
+[2022-12-09 15:35:45.858121] S1 Setup Request - Paging DRX v128
+[2022-12-09 15:35:45.858270] Sending S1 Setup Response

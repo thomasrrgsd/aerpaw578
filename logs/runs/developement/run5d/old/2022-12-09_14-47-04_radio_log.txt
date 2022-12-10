@@ -1,0 +1,52 @@
+[2022-12-09 14:47:05.314856] Couldn't open , trying /root/.config/srsran/ue.conf
+[2022-12-09 14:47:05.315817] Reading configuration file /root/.config/srsran/ue.conf...
+[2022-12-09 14:47:05.315856] WARNING: cpu0 scaling governor is not set to performance mode. Realtime processing could be compromised. Consider setting it to performance mode before running the application.
+[2022-12-09 14:47:05.315885] 
+[2022-12-09 14:47:05.315909] Built in Release mode using commit 17429def4 on branch master.
+[2022-12-09 14:47:05.315929] 
+[2022-12-09 14:47:05.361190] Opening 2 channels in RF device=default with args=type=zmq
+[2022-12-09 14:47:05.361258] Available RF device list: UHD  zmq 
+[2022-12-09 14:47:05.361280] Trying to open RF device 'UHD'
+[2022-12-09 14:47:05.361466] Opening USRP channels=2, args: type=zmq,master_clock_rate=23.04e6
+[2022-12-09 14:47:06.851212] RF device 'UHD' successfully opened
+[2022-12-09 14:47:07.407670] Waiting PHY to initialize ... done!
+[2022-12-09 14:47:07.407827] Attaching UE...
+[2022-12-09 14:47:07.407873] Enter t to stop trace.
+[2022-12-09 14:47:07.407904] Closing stdin thread.
+[2022-12-09 14:47:07.408085] --- disconnected ---
+[2022-12-09 14:47:08.408092] --- disconnected ---
+[2022-12-09 14:47:09.408234] --- disconnected ---
+[2022-12-09 14:47:10.408184] --- disconnected ---
+[2022-12-09 14:47:11.408165] --- disconnected ---
+[2022-12-09 14:47:12.408451] --- disconnected ---
+[2022-12-09 14:47:13.408118] --- disconnected ---
+[2022-12-09 14:47:14.408446] --- disconnected ---
+[2022-12-09 14:47:15.408084] --- disconnected ---
+[2022-12-09 14:47:16.408150] --- disconnected ---
+[2022-12-09 14:47:17.408170] --- disconnected ---
+[2022-12-09 14:47:18.408114] --- disconnected ---
+[2022-12-09 14:47:19.408214] --- disconnected ---
+[2022-12-09 14:47:20.408195] --- disconnected ---
+[2022-12-09 14:47:21.408298] --- disconnected ---
+[2022-12-09 14:47:22.408598] --- disconnected ---
+[2022-12-09 14:47:23.408170] --- disconnected ---
+[2022-12-09 14:47:24.408235] --- disconnected ---
+[2022-12-09 14:47:25.408469] --- disconnected ---
+[2022-12-09 14:47:26.408306] --- disconnected ---
+[2022-12-09 14:47:27.408390] --- disconnected ---
+[2022-12-09 14:47:28.408546] --- disconnected ---
+[2022-12-09 14:47:29.408227] --- disconnected ---
+[2022-12-09 14:47:30.408332] --- disconnected ---
+[2022-12-09 14:47:31.409361] --- disconnected ---
+[2022-12-09 14:47:32.408378] --- disconnected ---
+[2022-12-09 14:47:33.408525] --- disconnected ---
+[2022-12-09 14:47:34.408397] --- disconnected ---
+[2022-12-09 14:47:35.408391] --- disconnected ---
+[2022-12-09 14:47:36.408388] --- disconnected ---
+[2022-12-09 14:47:37.408356] --- disconnected ---
+[2022-12-09 14:47:38.408341] --- disconnected ---
+[2022-12-09 14:47:39.408446] --- disconnected ---
+[2022-12-09 14:47:40.408551] --- disconnected ---
+[2022-12-09 14:47:41.408410] --- disconnected ---
+[2022-12-09 14:47:42.408210] --- disconnected ---
+[2022-12-09 14:47:43.408155] --- disconnected ---
